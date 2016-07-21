@@ -17,3 +17,6 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+#dionne {
+	 background: rgba(255,255,255,0.2);
+}
